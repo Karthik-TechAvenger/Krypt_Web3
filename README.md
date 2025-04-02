@@ -32,4 +32,8 @@ Connect your MetaMask wallet.
 
 Interact with smart contracts and execute blockchain transactions.
 
+#Contributing-
+
+Feel free to fork the repository, open issues, and submit pull requests!
+
 
